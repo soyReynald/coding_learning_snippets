@@ -1,2 +1,5 @@
 Repeating an element n times in React:
 https://www.carlrippon.com/repeat-element-n-times-in-jsx/
+
+How to Split an Array into Even Chunks in JavaScript:
+https://stackabuse.com/how-to-split-an-array-into-even-chunks-in-javascript/
